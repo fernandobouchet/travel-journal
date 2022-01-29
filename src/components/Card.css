@@ -1,11 +1,68 @@
 .cards--container {
   display: flex;
   flex-direction: column;
+  align-items: center;
   padding: 25px 40px 18px 40px;
+  color: #2b283a;
 }
 
 .card {
   display: flex;
   padding-bottom: 20px;
   padding-top: 20px;
+}
+
+.card--data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 326px;
+}
+
+.card--country--container {
+  display: flex;
+}
+.card--img {
+  padding-right: 20px;
+}
+
+.card--country > img {
+  padding-right: 4px;
+  width: 6px;
+  height: 9px;
+}
+
+.card--mapLink {
+  padding-left: 13px;
+  font-size: 10px;
+  line-height: 12px;
+  text-decoration-line: underline;
+  color: #918e9b;
+}
+
+.card--country {
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+}
+
+.card--place {
+  padding-top: 7px;
+  padding-bottom: 16px;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.card--date {
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.card--description {
+  font-size: 10px;
+  line-height: 150%;
 }
