@@ -3,3 +3,7 @@
   color: #ffffff;
   height: 55px;
 }
+
+.header-container > h1 > img {
+  padding-right: 8px;
+}

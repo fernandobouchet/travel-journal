@@ -1,0 +1,11 @@
+.cards--container {
+  display: flex;
+  flex-direction: column;
+  padding: 25px 40px 18px 40px;
+}
+
+.card {
+  display: flex;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
