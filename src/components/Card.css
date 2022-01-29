@@ -75,6 +75,10 @@
   .cards--container {
     padding: 25px 5px 18px;
   }
+  
+  .card--place {
+    font-size: 22px;
+  }
 
   .card--img {
     padding-right: 10px;
