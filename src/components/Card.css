@@ -68,8 +68,8 @@
 }
 
 @media (max-width: 480px) {
-  * {
-    overflow-x: hidden;
+  .card {
+    width: 100%;
   }
 
   .cards--container {
@@ -85,6 +85,6 @@
   }
 
   .card--data {
-    width: 200px;
+    width: 280px;
   }
 }
