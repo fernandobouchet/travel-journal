@@ -3,7 +3,7 @@ export default function Card(props) {
   return (
     <div className="card">
       <div className="card--img">
-        <img src={`./images/${props.image}`} alt="fuji"></img>
+        <img src={`./images/${props.image}`} alt={props.alt}></img>
       </div>
       <div className="card--data">
         <div className="card--country--container">

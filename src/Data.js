@@ -2,6 +2,7 @@ const data = [
   {
     id: 1,
     image: "fuji.png",
+    alt: "Mount Fuji",
     country: "JAPAN",
     mapsLink: "https://goo.gl/maps/BPTZTMADKiW1QUFG7",
     place: "Mount Fuji",
@@ -13,6 +14,7 @@ const data = [
   {
     id: 2,
     image: "sidney.png",
+    alt: "Sidney Opera House",
     country: "AUSTRALIA",
     mapsLink: "https://goo.gl/maps/mx9uBoumqGiD4GRd6",
     place: "Sydney Opera House",
@@ -24,6 +26,7 @@ const data = [
   {
     id: 3,
     image: "geirangerfjord.png",
+    alt: "Geirangerfjord",
     country: "NORWAY",
     mapsLink: "https://goo.gl/maps/Fm6ruda8Zfu7EhRq7",
     place: "Geirangerfjord",
