@@ -7,6 +7,11 @@ Design was based from the following [Figma template](https://www.figma.com/file/
 
 [Live Demo](https://fernandobouchet.github.io/travel-journal/) :point_left:
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/fernandobouchet/travel-journal/blob/main/travel-journal_preview.png?raw=true)
+
 ## Getting started
 
 ```
