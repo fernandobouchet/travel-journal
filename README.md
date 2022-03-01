@@ -10,7 +10,7 @@ Design was based from the following [Figma template](https://www.figma.com/file/
 
 ## Screenshots
 
-![App Screenshot](https://github.com/fernandobouchet/travel-journal/blob/main/travel-journal_preview.png?raw=true)
+![App Screenshot](https://github.com/fernandobouchet/travel-journal/blob/main/travel-journal_preview.jpg?raw=true)
 
 ## Getting started
 
